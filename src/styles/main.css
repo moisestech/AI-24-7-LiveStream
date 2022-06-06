@@ -4,6 +4,7 @@ a {
   @apply text-blue-700;
 }
 
+
 a:hover {
   @apply underline;
 }
@@ -11,3 +12,26 @@ a:hover {
 @tailwind components;
 
 @tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'Universe Bold';
+    src: url('/fonts/Univers-Extended.woff2') format('woff2'),
+        url('/fonts/Univers-Extended.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Universe Regular';
+    src: url('/fonts/Univers-Extended.woff2') format('woff2'),
+        url('/fonts/Univers-Extended.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  html {
+    font-family: 'Universe Regular';
+  }
+}
