@@ -8,16 +8,22 @@ const About = () => (
   <Main meta={<Meta title="Lorem ipsum" description="Lorem ipsum" />}>
     <Content>
       <p>
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione fuga
-        recusandae quidem. Quaerat molestiae blanditiis doloremque possimus
-        labore voluptatibus distinctio recusandae autem esse explicabo molestias
-        officia placeat, accusamus aut saepe.
+        The Experimental A.I. Film & Music livestream for the new wave of
+        content generation.
       </p>
       <p>
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione fuga
-        recusandae quidem. Quaerat molestiae blanditiis doloremque possimus
-        labore voluptatibus distinctio recusandae autem esse explicabo molestias
-        officia placeat, accusamus aut saepe.
+        Content production is accelerating through the advancement of A.I.
+        generative models. AI24 aims to be the 24/7 streaming media-channel
+        assisted using machine learning visuals and aesthetics. From music
+        videos to A.I. movies, and animations.
+      </p>
+      <p>
+        AI24 is progressive community, driven by sonic and visual creative
+        inquiry through experimental contribution.
+      </p>
+      <p>
+        We promote and highlight emerging A.I. creators and music producers. We
+        are open to submissions to all those that want to get involved.
       </p>
     </Content>
   </Main>
