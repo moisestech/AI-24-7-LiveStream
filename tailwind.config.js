@@ -38,6 +38,10 @@ module.exports = {
           900: '#2a4365',
         },
       },
+      fontFamily: {
+        universe: 'Universe Regular',
+        universeBold: 'UniverseBold',
+      },
     },
   },
   variants: {},
