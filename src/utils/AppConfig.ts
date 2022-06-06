@@ -1,10 +1,10 @@
 export const AppConfig = {
   site_name: 'Starter',
-  title: 'Next.js Boilerplate',
+  title: 'AI24 🧠 🤖 🎨',
   description:
-    'Starter code for your Next.js blog Boilerplate with Tailwind CSS',
-  url: 'https://example.com',
+    'Your new favorite A.I. channel for artistic inquiry and showcase',
+  url: 'https://ai24.live',
   locale: 'en',
-  author: 'Anonymous',
+  author: 'AI24',
   pagination_size: 5,
 };
