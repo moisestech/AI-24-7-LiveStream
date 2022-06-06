@@ -1,8 +1,8 @@
 ---
-title: 'My forth post'
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-date: '2020-07-07'
-modified_date: '2020-07-07'
+title: 'Season 1 Genesis'
+description: The first season of the livestream dedicated to 24/7 artificial intelligence creativity.
+date: '2022-05-08'
+modified_date: '2022-05-08'
 image: /assets/images/posts/random-img.jpg
 ---
 
