@@ -22,7 +22,7 @@ const Pagination = (props: IPaginationProps) => (
     {props.next && (
       <div className="text-right ml-auto">
         <Link href={convertUrlToLinkHref(props.next)} as={props.next}>
-          <a>Older Posts →</a>
+          <a style={{ color: 'white' }}>Older Posts →</a>
         </Link>
       </div>
     )}
