@@ -12,7 +12,7 @@ type IMainProps = {
 
 const Main = (props: IMainProps) => (
   <div
-    className="antialiased w-full text-gray-700 px-3 md:px-0"
+    className="antialiased w-full text-gray-100 px-3 md:px-0"
     style={{ position: 'absolute', zIndex: 100 }}
   >
     {props.meta}
@@ -43,10 +43,7 @@ const Main = (props: IMainProps) => (
               </Link>
             </li>
             <li className="mr-6">
-              <a
-                style={{ color: 'white' }}
-                href="https://github.com/ixartz/Next-js-Blog-Boilerplate"
-              >
+              <a style={{ color: 'white' }} href="#">
                 Calendar
               </a>
             </li>
