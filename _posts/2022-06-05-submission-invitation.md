@@ -6,7 +6,9 @@ modified_date: '2022-06-05'
 image: /assets/images/posts/random-img.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Creator Submission Invitation. Are you open to experimentation and collaboration? Join a new wave of streaming content generation.
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 Example with image:
 
@@ -18,4 +20,4 @@ Example code block:
 function myFunction() {
   return true;
 }
-```
+``` -->
