@@ -1,8 +1,8 @@
 ---
-title: 'Artistic Accelerated Media'
+title: 'ARTISTIC ACCELERATED MEDIA'
 description: How AI is powering the new generation of media production
-date: '2022-06-01'
-modified_date: '2022-06-01'
+date: '2022-06-01 12:06:12'
+modified_date: '2022-06-01 12:06:12'
 image: /assets/images/posts/random-img.jpg
 ---
 

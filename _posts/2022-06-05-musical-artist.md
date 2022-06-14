@@ -1,8 +1,8 @@
 ---
-title: 'Musical Artist Season 1'
+title: 'MUSICAL ARTIST SEASON 1'
 description: 'The selected Musicians playing on the genesis season for AI 24 livestream'
-date: '2022-07-07'
-modified_date: '2022-07-07'
+date: '2022-06-09 18:05:10'
+modified_date: '2022-06-09 18:05:10'
 image: /assets/images/posts/random-img.jpg
 ---
 
