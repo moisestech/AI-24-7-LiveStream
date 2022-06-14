@@ -30,6 +30,24 @@ const Main = (props: IMainProps) => (
             {AppConfig.description}
           </div>
         </div>
+        <div
+          style={{
+            display: 'flex',
+            justifyContent: 'center',
+            alignItems: 'center',
+            padding: 30,
+          }}
+        >
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/2pfr8-aRnAs"
+            title="YouTube video player"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+          ></iframe>
+        </div>
         <div>
           <Navbar>
             <li className="mr-6">
