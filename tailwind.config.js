@@ -41,6 +41,8 @@ module.exports = {
       fontFamily: {
         universe: 'Universe Regular',
         universeBold: 'UniverseBold',
+        tinyLight: 'Tiny Light',
+        tinyBold: 'Tiny Bold',
       },
     },
   },
