@@ -61,7 +61,12 @@ const Main = (props: IMainProps) => (
               </Link>
             </li>
             <li className="mr-6">
-              <a style={{ color: 'white' }} href="#">
+              <a
+                style={{ color: 'white' }}
+                href="https://calendar.google.com/calendar/u/0/embed?src=ai24live@gmail.com&ctz=America/New_York"
+                target="_blank"
+                rel="noreferrer"
+              >
                 Calendar
               </a>
             </li>
