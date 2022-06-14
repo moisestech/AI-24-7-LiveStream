@@ -30,8 +30,25 @@ a:hover {
     font-style: normal;
     font-display: swap;
   }
+  @font-face {
+    font-family: 'Tiny Light';
+    src: url('/fonts/TINY5x3-60.woff2') format('woff2'),
+        url('/fonts/TINY5x3-60.woff') format('woff');
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Tiny Bold';
+    src: url('/fonts/TINY5x3-100.woff2') format('woff2'),
+        url('/fonts/TINY5x3-100.woff') format('woff');
+    font-style: normal;
+    font-display: swap;
+  }
 
   html {
     font-family: 'Universe Regular';
+  }
+  .font-tiny.font-bold {
+    font-family: 'Tiny Bold';
   }
 }
