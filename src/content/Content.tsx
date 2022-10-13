@@ -23,11 +23,15 @@ const Content = (props: IContentProps) => (
         }
 
         .content :global(h2) {
-          @apply text-2xl font-semibold text-gray-700 my-4;
+          @apply text-2xl font-semibold text-white-700 my-4;
         }
 
         .content :global(h3) {
-          @apply text-xl font-semibold text-gray-700 my-4;
+          @apply text-xl font-semibold text-white-700 my-4;
+        }
+
+        .content :global(a) {
+          color: #39ff14 !important;
         }
       `}
     </style>

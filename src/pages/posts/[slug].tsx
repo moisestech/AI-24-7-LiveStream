@@ -36,7 +36,7 @@ const DisplayPost = (props: IPostProps) => (
       />
     }
   >
-    <h1 className="text-center font-bold font-tiny text-xl text-gray-900">
+    <h1 className="text-center font-bold font-tiny text-xl text-white-900">
       {props.title}
     </h1>
     <div className="text-center text-sm mb-8">
@@ -45,6 +45,7 @@ const DisplayPost = (props: IPostProps) => (
 
     <Content>
       <div
+        style={{ margin: 10 }}
         // eslint-disable-next-line react/no-danger
         dangerouslySetInnerHTML={{ __html: props.content }}
       />

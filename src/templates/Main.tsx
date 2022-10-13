@@ -85,17 +85,30 @@ const Main = (props: IMainProps) => (
       </section>
 
       <div className="border-b border-gray-300">
-        <div className="pt-16 pb-8">
+        <div
+          className="pt-16 pb-8"
+          style={{
+            display: 'flex',
+            flex: 1,
+            flexDirection: 'column',
+            justifyContent: 'center',
+          }}
+        >
           <div
             className="font-semibold text-6xl text-gray-900"
-            style={{ color: 'white' }}
+            style={{ color: 'white', textAlign: 'center' }}
           >
-            {AppConfig.title}
+            {/* {AppConfig.title} */}
+            🧠 🤖 🎨
           </div>
-          <div className="text-xl" style={{ color: 'white' }}>
+          <div
+            className="text-xl"
+            style={{ color: 'white', textAlign: 'center' }}
+          >
             {AppConfig.description}
           </div>
         </div>
+
         <div
           style={{
             display: 'flex',
@@ -107,7 +120,7 @@ const Main = (props: IMainProps) => (
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/Vhri_1VaGR4"
+            src="https://www.youtube.com/embed/3N9fs6XiDSI"
             title="YouTube video player"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -140,7 +153,7 @@ const Main = (props: IMainProps) => (
         </div>
       </div>
 
-      <div className="text-xl py-5">{props.children}</div>
+      <div className="text-xl p-5">{props.children}</div>
 
       <div
         className="border-t border-gray-300 text-center py-8 text-sm"

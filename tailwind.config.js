@@ -37,6 +37,17 @@ module.exports = {
           800: '#2c5282',
           900: '#2a4365',
         },
+        white: {
+          100: '#ffffff',
+          200: '#ffffff',
+          300: '#ffffff',
+          400: '#ffffff',
+          500: '#ffffff',
+          600: '#ffffff',
+          700: '#ffffff',
+          800: '#ffffff',
+          900: '#ffffff',
+        },
       },
       fontFamily: {
         universe: 'Universe Regular',
