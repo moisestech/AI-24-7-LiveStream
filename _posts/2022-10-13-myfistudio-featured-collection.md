@@ -3,16 +3,17 @@ title: 'MyFi Studio: NFT Collection of the Week'
 description: 'Mycelium Fidelity Network is a multimedia web3 studio and a collection'
 date: '2022-10-13 18:03:00'
 modified_date: '2022-10-13 18:03:00'
-image: /assets/images/posts/random-img.jpg
+image: 	https://www.myfi.studio/connect/config/images/logo.png
 ---
+<!-- image: /assets/images/posts/random-img.jpg -->
 
 ## **MyFi (Mycelium Fidelity Network)** is a multimedia web3 studio and a collection
 
-### **Dr. Josh Eisenberg** +** Aimee Rubensteen** (MA) co-founded MyFi Studio
+### **Dr. Josh Eisenberg** +  **Aimee Rubensteen** (MA) co-founded MyFi Studio
 
 Josh focuses on music, programming, and AI. Aimee produces the analog glitch video art and curatorial projects. We work in all the spaces surrounding virtual worlds, fine art institutions, music festivals, and immersive multi-sensory installations. We produce our own experiences/work, and curate the work of others.
 
-### **MyFi** is about a mycelium network sending you message
+### **MyFi** is about a mycelium network sending you messages
 
 The NFT collection is exploring the mechanics and medium of the blockchain with 106 hours of analog glitch video art and combinatorially arranged music. MyFi was entirely created by Josh and Aimee. Here is one of the performances from the collection called in the tank. The work is available as NFTs. Each piece is a 36 second loop split out of the longer performances. Owners of the NFTs have full commercial rights to the media in their pieces. 
 
