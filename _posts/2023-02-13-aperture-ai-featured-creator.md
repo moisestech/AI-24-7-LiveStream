@@ -3,11 +3,13 @@ title: 'Aperture AI: Featured Creator of the Week'
 description: 'The Autonomous Time Teller'
 date: '2023-02-02 19:43:00'
 modified_date: '2023-02-02 09:15:00'
-image: 	''
+image: 	'https://eden-art.s3.amazonaws.com/ai24/AI24_ApertureAI_Thumbnail_1200x720.png'
 ---
 <!-- image: /assets/images/posts/random-img.jpg -->
 
-<img className='blog-splash-image' src='https://eden-art.s3.amazonaws.com/ai24/AI24_ApertureAI_Thumbnail_1200x720.png' style='max-width: 500px; margin: 0 auto' />
+
+![ApertureAI](https://eden-art.s3.amazonaws.com/ai24/AI24_ApertureAI_Thumbnail_1200x720.png)
+
 
 ## How did Aperture.AI start? Who are the participants? 
 
