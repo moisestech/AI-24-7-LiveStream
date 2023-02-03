@@ -153,7 +153,9 @@ const Main = (props: IMainProps) => (
         </div>
       </div>
 
-      <div className="text-xl p-5">{props.children}</div>
+      <div className="text-xl p-5" style={{ maxWidth: 1000, margin: '0 auto' }}>
+        {props.children}
+      </div>
 
       <div
         className="border-t border-gray-300 text-center py-8 text-sm"
