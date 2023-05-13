@@ -6,7 +6,6 @@ import Link from 'next/link';
 import 'video-react/dist/video-react.css';
 // COMPONENTS
 // @ts-ignore
-import LandingVideo from '../components/LandingVideo';
 import TextScroller from '../components/TextScroller';
 import { Navbar } from '../navigation/Navbar';
 import { AppConfig } from '../utils/AppConfig';
@@ -41,23 +40,23 @@ const Main = (props: IMainProps) => (
       </div>
 
       <section id="landing-video-wrapper" style={{ position: 'relative' }}>
-        <div className="background-video">
+        {/* <div className="background-video">
           <LandingVideo />
-        </div>
+        </div> */}
 
         <div
           className="logo-wrapper"
           style={{
             display: 'flex',
             justifyContent: 'center',
-            position: 'absolute',
+            position: 'relative',
             width: '100%',
             height: '100%',
             top: 0,
             alignItems: 'center',
           }}
         >
-          <div className="logo" style={{ position: 'absolute', zIndex: 100 }}>
+          <div className="logo" style={{ position: 'relative', zIndex: 100 }}>
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 1530.71 793.7"
@@ -117,7 +116,7 @@ const Main = (props: IMainProps) => (
             padding: 30,
           }}
         >
-          <iframe
+          {/* <iframe
             width="560"
             height="315"
             src="https://www.youtube.com/embed/3N9fs6XiDSI"
@@ -125,7 +124,19 @@ const Main = (props: IMainProps) => (
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
-          ></iframe>
+          ></iframe> */}
+
+          <div className="w-full min-h-min h-{500}">
+            <iframe
+              className="w-full h-{500}"
+              src="https://player.restream.io/?token=ae4a3018f54047eba52a20301870e51a"
+              allow="autoplay"
+              allowFullScreen
+              frameBorder="0"
+              width="560"
+              height="315"
+            />
+          </div>
         </div>
         <div>
           <Navbar>

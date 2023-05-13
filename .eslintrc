@@ -1,7 +1,8 @@
 {
+  "root": true,
   // Configuration for JavaScript files
   "extends": [
-    "airbnb-base",
+    "./node_modules/eslint-config-airbnb-base",
     "next/core-web-vitals",
     "plugin:prettier/recommended"
   ],
