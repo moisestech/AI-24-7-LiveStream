@@ -6,8 +6,6 @@ modified_date: '2022-06-02 12:36:02'
 image: /assets/images/posts/random-img.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
 Example with image:
 
 ![Error](@@baseUrl@@/assets/images/posts/error.png)

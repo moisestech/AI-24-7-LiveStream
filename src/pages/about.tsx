@@ -5,7 +5,9 @@ import { Meta } from '../layout/Meta';
 import { Main } from '../templates/Main';
 
 const About = () => (
-  <Main meta={<Meta title="Lorem ipsum" description="Lorem ipsum" />}>
+  <Main
+    meta={<Meta title="AI24 Live" description="Artificial Livestream 24/7" />}
+  >
     <Content>
       <p>
         The Experimental A.I. Film & Music livestream for the new wave of

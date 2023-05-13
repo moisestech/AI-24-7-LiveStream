@@ -15,7 +15,9 @@ type IPageUrl = {
 };
 
 const PaginatePosts = (props: IBlogGalleryProps) => (
-  <Main meta={<Meta title="Lorem ipsum" description="Lorem ipsum" />}>
+  <Main
+    meta={<Meta title="AI24 Live" description="Artificial Livestream 24/7" />}
+  >
     <BlogGallery posts={props.posts} pagination={props.pagination} />
   </Main>
 );

@@ -17,7 +17,7 @@ Salyaku https://salyaku.com/
 DJ Quads https://www.instagram.com/djquads/
 BartyDarty 
 
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+<!--
 
 Example with image:
 
