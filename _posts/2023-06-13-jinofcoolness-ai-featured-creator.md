@@ -3,11 +3,10 @@ title: 'Jinofcoolness: The AI Streetwear Collection'
 description: 'Finding Soul in AI'
 date: '2023-06-14 19:43:00'
 modified_date: '2023-06-14 19:43:00'
-image: 	''
+image: 	'/assets/images/posts/random-img.jpg'
 ---
-<!-- image: /assets/images/posts/random-img.jpg -->
 
-## "Jinofcoolness (Rahmel Jackson)
+## Jinofcoolness (Rahmel Jackson)
 
 **Rahmel Jackson** focuses on all things AI alignment, image, chat, and models. He creates his art using ChatGPT and Stable Diffusion, infusing it with the soul of his Harlem background.
 
