@@ -1,0 +1,54 @@
+@tailwind base;
+
+a {
+  @apply text-blue-700;
+}
+
+
+a:hover {
+  @apply underline;
+}
+
+@tailwind components;
+
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'Universe Bold';
+    src: url('/fonts/Univers-Extended.woff2') format('woff2'),
+        url('/fonts/Univers-Extended.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Universe Regular';
+    src: url('/fonts/Univers-Extended.woff2') format('woff2'),
+        url('/fonts/Univers-Extended.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Tiny Light';
+    src: url('/fonts/TINY5x3-60.woff2') format('woff2'),
+        url('/fonts/TINY5x3-60.woff') format('woff');
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Tiny Bold';
+    src: url('/fonts/TINY5x3-100.woff2') format('woff2'),
+        url('/fonts/TINY5x3-100.woff') format('woff');
+    font-style: normal;
+    font-display: swap;
+  }
+
+  html {
+    font-family: 'Universe Regular';
+  }
+  .font-tiny.font-bold {
+    font-family: 'Tiny Bold';
+  }
+}

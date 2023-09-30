@@ -1,0 +1,28 @@
+{
+  "name": "ai24",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@mapbox/rehype-prism": "0.7.0",
+    "@mux/mux-player-react": "^1.11.4",
+    "@portabletext/react": "^2.0.3",
+    "@react-spring/types": "9.5.0",
+    "@react-spring/web": "9.5.0",
+    "@sanity/client": "^5.4.2",
+    "@sanity/image-url": "^1.0.2",
+    "framer-motion": "^10.0.0",
+    "lazysizes": "^5.3.2",
+    "next": "13.2.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-three-fiber": "^6.0.13",
+    "sass": "^1.58.3",
+    "three": "^0.153.0"
+  }
+}

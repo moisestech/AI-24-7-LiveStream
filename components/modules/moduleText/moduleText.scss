@@ -1,0 +1,17 @@
+
+
+.moduleText {
+    display: flex;
+    width: 100%;
+    margin: 20px auto;
+    border-top: 2px solid black;
+}
+.moduleText__title {
+    width: 20%;
+    font-size: 2rem;
+    padding: 20px;
+}
+.moduleText__content {
+    width: 80%;
+    padding: 20px;
+}

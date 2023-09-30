@@ -1,0 +1,40 @@
+
+.stage {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(26, 26, 26);
+    z-index: -1;
+}
+.stage__video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+}
+mux-player {
+    width: 100%;
+    height: 100%;
+    --media-object-fit: cover;
+    --media-object-position: center;
+    --controls: none;
+}
+
+
+.stage__button {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 2; 
+    cursor: pointer;
+}
+.stage__button.show {
+    opacity: 0;
+    transition: 400ms;
+}
+
